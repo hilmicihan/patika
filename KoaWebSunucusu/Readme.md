@@ -6,5 +6,7 @@ Sayfalara içerik olarak xxx sayfasına hoşgeldiniz şeklinde h1 başlıkları 
 port numarası olarak 3000'i kullanalım.
  # Run
  npm i koa
+
  npm i koa-router
+ 
  node index.js
